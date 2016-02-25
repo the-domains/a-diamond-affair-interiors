@@ -7,23 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Aurora wallpaper by Calico Studios.  Global color authority Pantone surprised the design community by naming not one but two colors for the 2016 edition of its '
-datePublished: '2016-02-25T02:39:21.093Z'
-dateModified: '2016-02-25T02:38:58.952Z'
+datePublished: '2016-02-25T04:53:58.120Z'
+dateModified: '2016-02-25T04:53:50.713Z'
 author: []
 title: ''
+sourcePath: _posts/2016-02-25-aurora-wallpaper-by-calico-studios-global-color-authority.md
+published: true
 authors: []
 publisher:
   name: interiordesign.net
   domain: www.interiordesign.net
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-aurora-wallpaper-by-calico-studios-global-color-authority.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa866948-20e5-4c63-83df-9e3256ef6df2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df193ee0db6b62b14a0b1a88c470c3107134e57e.jpg)
 
 Aurora wallpaper by Calico Studios. 
 
