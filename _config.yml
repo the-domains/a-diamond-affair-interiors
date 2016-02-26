@@ -1,6 +1,6 @@
 name: A Diamond Affair Interiors
 favicon: null
-layout_spectrum: 0.79669
+layout_spectrum: 0.63525
 typography_spectrum: 1
 title: 'A Diamond Affair Interiors - Certified Interior Designer #6827'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fefefe'
     - '#201613'
     - '#554f4b'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
