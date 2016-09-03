@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T22:44:41.813Z'
+datePublished: '2016-09-01T02:10:55.870Z'
+sourcePath: _posts/2016-08-31-beautiful-white-kitchen-with-shiplap-ceiling.md
 author: []
 via: {}
-dateModified: '2016-08-31T20:19:53.786Z'
+dateModified: '2016-09-01T02:10:55.048Z'
 title: ''
 publisher: {}
 description: Beautiful White Kitchen with Shiplap Ceiling
 starred: false
-sourcePath: _posts/2016-08-31-beautiful-white-kitchen-with-shiplap-ceiling.md
 inFeed: true
 hasPage: true
 inNav: false
