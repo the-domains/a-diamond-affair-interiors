@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T02:00:30.614Z'
+datePublished: '2016-09-01T02:07:03.135Z'
 sourcePath: _posts/2016-08-31-general-contractor-license.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T02:00:30.082Z'
+dateModified: '2016-09-01T02:07:02.671Z'
 title: ''
 publisher: {}
 description: 'General Contractor License #'
@@ -22,14 +22,14 @@ For all your Design and Build needs
 
 **A Diamond Affair Luxury Interiors - 310 779 3330**
 
-<!-- Do not change the code! --\>  
-<a id="foxyform\_embed\_link\_810156" href="http://www.foxyform.com/"\>foxyform</a\>  
-<script type="text/javascript"\>  
-(function(d, t){  
-var g = d.createElement(t),  
-s = d.getElementsByTagName(t)\[0\];  
-g.src = "http://www.foxyform.com/js.php?id=810156&sec\_hash=cdd190353a4&width=350px";  
-s.parentNode.insertBefore(g, s);  
-}(document, "script"));  
-</script\>  
-<!-- Do not change the code! --\>
+    <!-- Do not change the code! -->
+    <a id="foxyform_embed_link_810156" href="http://www.foxyform.com/">foxyform</a>
+    <script type="text/javascript">
+    (function(d, t){
+       var g = d.createElement(t),
+           s = d.getElementsByTagName(t)[0];
+       g.src = "http://www.foxyform.com/js.php?id=810156&sec_hash=cdd190353a4&width=350px";
+       s.parentNode.insertBefore(g, s);
+    }(document, "script"));
+    </script>
+    <!-- Do not change the code! -->
