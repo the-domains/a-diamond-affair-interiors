@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T20:34:51.692Z'
+datePublished: '2016-09-01T02:00:30.614Z'
+sourcePath: _posts/2016-08-31-general-contractor-license.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:34:51.276Z'
+dateModified: '2016-09-01T02:00:30.082Z'
 title: ''
 publisher: {}
 description: 'General Contractor License #'
-sourcePath: _posts/2016-08-31-general-contractor-license.md
-hasPage: true
 starred: false
 url: general-contractor-license/index.html
 _type: Article
@@ -18,8 +18,18 @@ _type: Article
 
 General Contractor License \#
 
-For all your Design and Build needs 
+For all your Design and Build needs
 
-**A Diamond Affair Luxury Interiors **
+**A Diamond Affair Luxury Interiors - 310 779 3330**
 
-is the only firm you'll need
+<!-- Do not change the code! --\>  
+<a id="foxyform\_embed\_link\_810156" href="http://www.foxyform.com/"\>foxyform</a\>  
+<script type="text/javascript"\>  
+(function(d, t){  
+var g = d.createElement(t),  
+s = d.getElementsByTagName(t)\[0\];  
+g.src = "http://www.foxyform.com/js.php?id=810156&sec\_hash=cdd190353a4&width=350px";  
+s.parentNode.insertBefore(g, s);  
+}(document, "script"));  
+</script\>  
+<!-- Do not change the code! --\>
