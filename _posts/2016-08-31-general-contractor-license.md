@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T20:33:16.964Z'
+datePublished: '2016-08-31T20:34:51.692Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:16:46.452Z'
+dateModified: '2016-08-31T20:34:51.276Z'
 title: ''
 publisher: {}
 description: 'General Contractor License #'
-starred: false
 sourcePath: _posts/2016-08-31-general-contractor-license.md
-_type: Blurb
+hasPage: true
+starred: false
+url: general-contractor-license/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abfe11a-d138-4e24-a89a-eefe48da1e47.jpg)
