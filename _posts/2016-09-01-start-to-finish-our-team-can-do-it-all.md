@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-01T02:21:01.610Z'
+datePublished: '2016-09-01T02:21:39.729Z'
+sourcePath: _posts/2016-09-01-start-to-finish-our-team-can-do-it-all.md
 author: []
 via: {}
-dateModified: '2016-09-01T02:03:09.492Z'
+dateModified: '2016-09-01T02:21:39.387Z'
 title: ''
 publisher: {}
 description: Start to Finish - Our team can do it all
 starred: false
-sourcePath: _posts/2016-09-01-start-to-finish-our-team-can-do-it-all.md
 inFeed: true
 hasPage: true
 inNav: false
