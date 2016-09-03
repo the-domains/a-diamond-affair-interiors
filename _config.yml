@@ -1,20 +1,4 @@
-name: A Diamond Affair Interiors
-favicon: null
-layout_spectrum: 0.63715
 typography_spectrum: 1
-title: 'A Diamond Affair Interiors - Certified Interior Designer #6827'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#868581'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63715
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: A Diamond Affair Interiors
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'A Diamond Affair Luxury Interiors '
 purpose: []
