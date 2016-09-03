@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T02:43:08.637Z'
+datePublished: '2016-09-01T02:49:18.599Z'
 sourcePath: _posts/2016-08-31-general-contractor-license.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T02:28:04.937Z'
+dateModified: '2016-09-01T02:49:17.693Z'
 title: ''
 publisher: {}
 description: 'General Contractor License #'
